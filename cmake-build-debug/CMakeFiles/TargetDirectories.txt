@@ -1,0 +1,3 @@
+/Users/sjwang/Documents/course/computational_geometry/project/Triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sjwang/Documents/course/computational_geometry/project/Triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sjwang/Documents/course/computational_geometry/project/Triangle/cmake-build-debug/CMakeFiles/Triangle.dir
